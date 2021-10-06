@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohamad-Sarfi
-- 👀 I’m love in Python, JavaScript and Kotlin
-- 🌱 I’m interested in web development, machine learning and Android app development. 
+- 👀 I’m in love with Python and JavaScript 
+- 🌱 I’m interested in web development, machine learning.
 - 💞️ I’m looking to collaborate on web development and data science projects.
 - Things I know: HTML/CSS, JavaScript, React, Node, Express, Mongo DB, mySQL, SQLite, Python, Pandas, Numpy, Matplotlib, Tensorflow.
 - 📫 How to reach me: instagram, telegram: @mohamad_srf
