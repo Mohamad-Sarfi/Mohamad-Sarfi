@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Mohamad-Sarfi
-- 🌱 I’m interested in web development, mobile app development and machine learning.
-- 💞️ I’m looking to collaborate on web development, Android app development and data science projects.
+- 🌱 I’m interested in mobile app development and data analysis.
+- 💞️ I’m looking to collaborate on Android app development, cross-platform app developmet with Flutter and data science projects.
 - Things I know: 
--   HTML/CSS, JavaScript, React, Bootstrap.
 -   Java, Kotlin, Andrid SDK, Android Jetpack, Compose, SQLite, Room, RestAPI, retrofit, MVVM. 
+-   Flutter, Dart
+-   HTML/CSS, JavaScript, Bootstrap.
 -   Python, Pandas, Numpy, Matplotlib, Tensorflow.
 - 
-- 📫 How to reach me: 
+- 📫 How to reach out to me: 
 - instagram: @mohamad_srf
 - telegram: @mohamad_srf
